@@ -1,0 +1,5 @@
+In case of dlib error then we can type dlib compiled binary in google and we will go to github repo and download required file
+and then we must navigate terminal to the download folder
+and pip install dlib manually.
+
+Another thing to note is that the numpy version must be 1.26.2 when doing pip install
